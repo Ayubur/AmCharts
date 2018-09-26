@@ -89,7 +89,6 @@ if(chart==null){
 			    "fillAlphas": 0.9,
 			    "lineAlpha": 0.2,
 			    "type": "column",
-				"fixedColumnWidth": 115,
 			    "valueField": "visits"
 			  }],
 			  "chartCursor": {
